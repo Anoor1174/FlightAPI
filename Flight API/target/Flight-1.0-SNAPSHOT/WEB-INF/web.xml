@@ -5,7 +5,7 @@
                              https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
          version="6.0">
 
-    <display-name>W1985088_AzhaarNoor_5COSC022W2</display-name>
+    <display-name>FlightAPI</display-name>
 
     <servlet>
         <servlet-name>JerseyServlet</servlet-name>

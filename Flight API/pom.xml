@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>W1985088_AzhaarNoor_5COSC022W2</artifactId>
+    <artifactId>flightAPI</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>W1985088_AzhaarNoor_5COSC022W2-1.0-SNAPSHOT</name>
+    <name>FlightAPI</name>
 
     <dependencies>
         <!-- Jersey dependencies -->
